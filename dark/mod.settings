@@ -1,0 +1,13 @@
+name        = "phrogg eyes dark"
+source_dir  = "source"
+output_dir  = "output"
+description = [=[phroggie's alien vision (dark) mod
+
+Mostly dark grayscales with some obvious coloring, great for night-time use.
+
+Workshop ID: 2822011098
+]=]
+image       = "preview-512x512.jpg"
+tag_modtype = "Alien Vision"
+tag_support = "Passes Default Consistency"
+publish_id = 2822011098
