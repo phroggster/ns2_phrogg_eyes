@@ -6,6 +6,7 @@ description = [=[phroggie's alien vision (dark) mod
 Mostly dark grayscales with some obvious coloring, great for night-time use.
 
 Workshop ID: 2822011098
+Github: https://github.com/phroggster/ns2_phrogg_eyes
 ]=]
 image       = "preview-512x512.jpg"
 tag_modtype = "Alien Vision"

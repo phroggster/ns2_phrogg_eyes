@@ -7,7 +7,5 @@ license with conditions only requiring preservation of copyright and license not
 and larger works may be distributed under different terms and without source code.`
 
 ## Downloads
-[**dark mod**](https://steamcommunity.com/sharedfiles/filedetails/?id=2822011098 "Steam Workshop") - Workshop ID: 2822011098
-
-## Previews
-[![Preview image with the dark mod active. Left: looking at a hive, an egg, and a shell. Right: a marine navigates with an IP, RT, and power node are visible. Greens, pinks, blues, and grayscales.](https://raw.githubusercontent.com/phroggster/ns2_phrogg_eyes/main/dark/preview-512x512.jpg "sample of various entities")](https://github.com/phroggster/ns2_phrogg_eyes/blob/main/dark/preview-512x512.jpg "dark mod")
+[**light mod**](https://steamcommunity.com/sharedfiles/filedetails/?id=2947458601 "Steam Workshop - phrogg eyes light") - Workshop ID: 2947458601  
+[**dark mod**](https://steamcommunity.com/sharedfiles/filedetails/?id=2822011098 "Steam Workshop - phrogg eyes dark") - Workshop ID: 2822011098
