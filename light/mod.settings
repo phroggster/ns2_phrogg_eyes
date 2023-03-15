@@ -1,0 +1,13 @@
+name        = "phrogg eyes light"
+source_dir  = "source/"
+output_dir  = "output/"
+description = [=[phroggie's alien vision (light) mod
+
+Mostly light grayscales with some obvious coloring, great for daytime use.
+
+Github: https://github.com/phroggster/ns2_phrogg_eyes
+Workshop ID: 2947458601]=]
+image       = "preview.jpg"
+tag_modtype = "Alien Vision"
+tag_support = "Passes Default Consistency"
+publish_id = 2947458601
